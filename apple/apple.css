@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: rgb(231, 231, 231);
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    align-items: center;
+    box-shadow: 4px 4px 5px rgb(84, 84, 85);
+}
+i{
+    width: 20px;
+    height: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+    /* color: blue; */
+}
+ul{
+    display: flex;  
+}
+a{
+    text-decoration: none;
+    margin-left: 40px;
+    color: black;
+}
